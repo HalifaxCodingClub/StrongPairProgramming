@@ -81,3 +81,11 @@ In this example, the sum of the results would be 4 + 3 + 2 = 9.
 [Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/AdvancedChecksumCalculatorProblem)
  / 
 [Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/AdvancedChecksumCalculatorProblemSolution)
+
+
+
+
+
+---
+
+Katas from Days 1 and 2 from [Advent of Code 2017](https://adventofcode.com/2017)
