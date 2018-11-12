@@ -14,9 +14,9 @@ For example:
     1234 produces 0 because no digit matches the next.
     91212129 produces 9 because the only digit that matches the next one is the last digit, 9.
 
-[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/ReverseCaptchaProblem)
+[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/ReverseCaptchaProblem)
  / 
-[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/ReverseCaptchaProblemSolution)
+[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/Solutions/ReverseCaptchaProblemSolution)
 
 
 ## 2. Advanced Reverse Captcha
@@ -32,9 +32,9 @@ For example:
     123123 produces 12.
     12131415 produces 4.
 
-[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/AdvancedReverseCaptchaProblem)
+[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/AdvancedReverseCaptchaProblem)
  / 
-[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/AdvancedReverseCaptchaProblemSolution)
+[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/Solutions/AdvancedReverseCaptchaProblemSolution)
 
 
 ## 3. Checksum Calculator
@@ -55,9 +55,9 @@ For example, given the following input:
 
 In this example, the example's checksum would be 8 + 4 + 6 = 18.
 
-[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/ChecksumCalculatorProblem)
+[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/ChecksumCalculatorProblem)
  / 
-[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/ChecksumCalculatorProblemSolution)
+[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/Solutions/ChecksumCalculatorProblemSolution)
 
 
 ## 4. Advanced Checksum Calculator
@@ -78,9 +78,9 @@ For example, given the following input:
 
 In this example, the sum of the results would be 4 + 3 + 2 = 9.
 
-[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/AdvancedChecksumCalculatorProblem)
+[Problem](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/AdvancedChecksumCalculatorProblem)
  / 
-[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/AdvancedChecksumCalculatorProblemSolution)
+[Solution](https://github.com/HalifaxCodingClub/StrongPairProgramming/blob/master/Problems/Solutions/AdvancedChecksumCalculatorProblemSolution)
 
 
 
